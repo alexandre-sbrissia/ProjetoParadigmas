@@ -1,5 +1,4 @@
-
-public class Tabuleiro{
+public class Tabuleiro extends Entidade{
 
 
 

@@ -1,14 +1,7 @@
-
-
-public class Jogador {
+public class Jogador extends Entidade {
 
     private String nome;
-    private int x, y;
     private Item itemAtual ;
-    private boolean vivo ;
-
-    
-
 
 
 

@@ -1,5 +1,4 @@
-
-public class FakeNews {
+public class FakeNews extends Entidade {
 
 
 

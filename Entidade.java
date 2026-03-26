@@ -25,7 +25,6 @@ public abstract class Entidade {
     public void mover(int novoX, int novoY) {
 
         if (novoX < 8 && novoY > -1) {
-
            this.x = novoX ;
            this.y = novoY ;
         }

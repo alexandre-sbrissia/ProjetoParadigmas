@@ -1,5 +1,4 @@
-
-public class Setor {
+public class Setor extends Entidade {
 
 
 
