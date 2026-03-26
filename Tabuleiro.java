@@ -1,5 +1,5 @@
 
-public class Tabuleiro.java {
+public class Tabuleiro{
 
 
 
